@@ -1,3 +1,4 @@
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/b993cab4-de34-480a-ad23-5a7736249e62" />
 <h1 align="center">Hi 👋, I'm Sabit Hossen</h1>
 <h3 align="center">Full-Stack MERN Developer from 🇧🇩 South Asia.</h3>
 
